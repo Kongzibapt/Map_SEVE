@@ -2,9 +2,7 @@ import base64
 import streamlit as st
 import pandas as pd
 import folium
-from streamlit_folium import st_folium
 import tempfile
-import random
 from geopy.geocoders import Nominatim
 import time
 
