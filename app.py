@@ -36,7 +36,7 @@ if uploaded_file:
     
     # Définir les options de couleurs et icônes avec traductions et pastilles
     color_options = {
-        "darkblue": "🔵 Bleu Foncé", "red": "🔴 Rouge", "green": "🟢 Vert",
+        "darkblue": "🔵 Bleu", "red": "🔴 Rouge", "green": "🟢 Vert",
         "purple": "🟣 Violet", "orange": "🟠 Orange", 
         "pink": "🌹 Rose"
     }
