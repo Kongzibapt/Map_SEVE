@@ -36,15 +36,18 @@ if uploaded_file:
     
     # Définir les options de couleurs et icônes avec traductions et pastilles
     color_options = {
-        "blue": "🔵 Bleu", "red": "🔴 Rouge", "green": "🟢 Vert",
-        "purple": "🟣 Violet", "orange": "🟠 Orange", "darkblue": "🔵 Bleu Foncé",
-        "cadetblue": "🔵 Bleu Cadet", "pink": "🎀 Rose"
+        "darkblue": "🔵 Bleu Foncé", "red": "🔴 Rouge", "green": "🟢 Vert",
+        "purple": "🟣 Violet", "orange": "🟠 Orange", 
+        "pink": "🌹 Rose"
     }
     
     icon_options = {
-        "info": "ℹ️ Info", "cloud": "☁️ Nuage", "flag": "🚩 Drapeau",
-        "star": "⭐ Étoile", "leaf": "🍃 Feuille", "globe": "🌍 Globe",
-        "home": "🏠 Maison", "university": "🎓 Université"
+        "info": "ℹ️ Info", "flag": "🚩 Drapeau",
+        "star": "⭐ Étoile", "globe": "🌍 Globe",
+        "home": "🏠 Maison", "university": "🎓 Université", 
+        "building": "🏛️ Construction",
+        "user": "👤 Utilisateur",
+        "map-pin": "📍 Marqueur",
     }
     
     # Stocker les sélections de l'utilisateur
